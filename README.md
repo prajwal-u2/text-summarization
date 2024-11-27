@@ -1,3 +1,3 @@
 # text-summarization
 Comparison of text summarization algorithms and it's analysis
-Algorithms Used : BERT, T5
+Algorithms Used : BERT, T5, Text-Rank
